@@ -1,1 +1,8 @@
- 
+numpy
+pandas
+scikit-learn
+transformers
+torch
+sentence-transformers
+faiss-cpu
+langchain

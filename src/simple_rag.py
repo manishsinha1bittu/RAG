@@ -62,8 +62,8 @@ class SimpleRetriever:
                     score += freq * doc['word_freq'][word]
             scores.append((score, doc))
         
-        # Sort by score and return top_k
-        scores.sort(reverse=True)
+        # Sort by score (first element of tuple) and return top_k
+        scores.sort(key=lambda x: x[0], reverse=True)
         return [doc for score, doc in scores[:top_k] if score > 0]
 
 

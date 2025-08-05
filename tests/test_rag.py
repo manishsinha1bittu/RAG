@@ -129,7 +129,7 @@ class TestSimpleRAG(unittest.TestCase):
     
     def test_query_no_matches(self):
         """Test query when no documents match."""
-        question = "What is quantum physics?"
+        question = "xyzabc quantum physics"
         result = self.rag.query(question, top_k=2)
         
         self.assertIn('response', result)

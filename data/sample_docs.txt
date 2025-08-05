@@ -1,1 +1,19 @@
- 
+Artificial Intelligence (AI) is a branch of computer science that aims to create intelligent machines that can perform tasks that typically require human intelligence. These tasks include learning, reasoning, problem-solving, perception, and language understanding.
+
+Machine Learning is a subset of AI that focuses on the development of algorithms and statistical models that enable computers to improve their performance on a specific task through experience. It involves training models on data to make predictions or decisions without being explicitly programmed for the task.
+
+Deep Learning is a subset of machine learning that uses artificial neural networks with multiple layers to model and understand complex patterns in data. It has been particularly successful in areas like computer vision, natural language processing, and speech recognition.
+
+Natural Language Processing (NLP) is a field of AI that focuses on the interaction between computers and human language. It involves developing algorithms and models that can understand, interpret, and generate human language in a meaningful way.
+
+Computer Vision is a field of AI that enables computers to interpret and understand visual information from the world. It involves developing algorithms that can process, analyze, and understand images and videos to extract meaningful information.
+
+Neural Networks are computational models inspired by biological neural networks in the human brain. They consist of interconnected nodes (neurons) that process information and can learn complex patterns through training on data.
+
+Supervised Learning is a type of machine learning where the algorithm learns from labeled training data to make predictions on new, unseen data. The training data includes both input features and their corresponding target outputs.
+
+Unsupervised Learning is a type of machine learning where the algorithm learns patterns from unlabeled data without any predefined target outputs. It is often used for clustering, dimensionality reduction, and discovering hidden patterns in data.
+
+Reinforcement Learning is a type of machine learning where an agent learns to make decisions by taking actions in an environment to maximize cumulative rewards. The agent learns through trial and error, receiving feedback in the form of rewards or penalties.
+
+Transfer Learning is a machine learning technique where a model trained on one task is adapted for a related task. This approach can significantly reduce the amount of training data and computational resources needed for the new task. 
